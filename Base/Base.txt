@@ -7,3 +7,4 @@
 
 --------- Espacio para kenneth ------------
 Creo la base de datos
+Voy en trabajo intermedio de la base de datos
